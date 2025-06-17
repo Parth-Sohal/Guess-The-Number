@@ -22,4 +22,4 @@ A fun JavaScript-based number guessing game where users try to guess a number be
 - CSS
 - JavaScript
 
-## 📂 Folder Structure
+
